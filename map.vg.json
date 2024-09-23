@@ -4,22 +4,35 @@
     "width": 800,
     "height": 400,
     "projection": {
-        "type": "equalEarth"
+        "type": "mercator"
     },
-    "layer": [
+    "data": {
+        "url": "https://raw.githubusercontent.com/mhoa0013/FIT3179/refs/heads/main/output.topojson",
+        "format": {
+            "type": "topojson",
+            "feature": "STE_2021_AUST_GDA2020"
+        }
+    },
+    "transform": [
         {
-            "data": {
-                "url": "https://raw.githubusercontent.com/mhoa0013/FIT3179/refs/heads/main/output.topojson",
-                "format": {
-                    "type": "topojson",
-                    "feature": ""
-                }
-            },
-            "mark": {
-                "type": "geoshape",
-                "fill": "lightgray",
-                "stroke": "white"
+            "lookup": "properties.NAME",
+            "from": {
+                "data": {
+                    "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/data/covid_10_10_2020.csv"
+                },
+                "key": "Country",
+                "fields": [
+                    "Active"
+                ]
             }
         }
-    ]
-}
+    ],
+    "mark": {
+        "type": "geoshape"
+    },
+    "encoding": {
+        "color": {
+            "field": "Active",
+            "type": "quantitative"
+        }
+    }
