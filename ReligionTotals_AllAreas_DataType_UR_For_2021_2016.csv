@@ -1,230 +1,229 @@
-"WebID","Area","Data label","2021","2021%","2016","2016%","Data Type",
-"10","Australia","Christian total","11149643","43.8569","12201613","52.1395","UR",
-"10","Australia","Non Christian total","2539543","9.9892","1922028","8.2131","UR",
-"10","Australia","Non-classifiable religious belief","141571","0.5569","144780","0.6187","UR",
-"10","Australia","No Religion/secular beliefs","9840976","38.7093","7001293","29.9177","UR",
-"10","Australia","Not stated","1751053","6.8877","2132160","9.1111","UR",
-"10","Australia","Total Population","25422786","100.0000","23401874","100.0000","UR",
-"20","Greater Capital Cities","Christian total","7068284","42.6673","7545814","49.7130","UR",
-"20","Greater Capital Cities","Non Christian total","2227724","13.4475","1691432","11.1434","UR",
-"20","Greater Capital Cities","Non-classifiable religious belief","90192","0.5444","92919","0.6122","UR",
-"20","Greater Capital Cities","No Religion/secular beliefs","6175051","37.2753","4538611","29.9011","UR",
-"20","Greater Capital Cities","Not stated","1004794","6.0654","1309988","8.6304","UR",
-"20","Greater Capital Cities","Total Population","16566045","100.0000","15178764","100.0000","UR",
-"40","New South Wales","Christian total","3844641","47.6285","4127537","55.1793","UR",
-"40","New South Wales","Non Christian total","973513","12.0602","757902","10.1321","UR",
-"40","New South Wales","Non-classifiable religious belief","39319","0.4871","39194","0.5240","UR",
-"40","New South Wales","No Religion/secular beliefs","2666328","33.0312","1898832","25.3847","UR",
-"40","New South Wales","Not stated","548340","6.7930","656761","8.7800","UR",
-"40","New South Wales","Total Population","8072141","100.0000","7480226","100.0000","UR",
-"41","Victoria","Christian total","2657951","40.8695","2839149","47.9050","UR",
-"41","Victoria","Non Christian total","853762","13.1277","628988","10.6129","UR",
-"41","Victoria","Non-classifiable religious belief","36463","0.5607","38236","0.6452","UR",
-"41","Victoria","No Religion/secular beliefs","2542441","39.0934","1893491","31.9489","UR",
-"41","Victoria","Not stated","412883","6.3486","526758","8.8880","UR",
-"41","Victoria","Total Population","6503500","100.0000","5926622","100.0000","UR",
-"42","Queensland","Christian total","2357556","45.7233","2635342","56.0330","UR",
-"42","Queensland","Non Christian total","259091","5.0249","201728","4.2892","UR",
-"42","Queensland","Non-classifiable religious belief","32004","0.6207","31837","0.6769","UR",
-"42","Queensland","No Religion/secular beliefs","2114789","41.0150","1388989","29.5328","UR",
-"42","Queensland","Not stated","392694","7.6161","445304","9.4681","UR",
-"42","Queensland","Total Population","5156134","100.0000","4703200","100.0000","UR",
-"43","South Australia","Christian total","712983","40.0213","823429","49.1115","UR",
-"43","South Australia","Non Christian total","139462","7.8283","100288","5.9814","UR",
-"43","South Australia","Non-classifiable religious belief","10228","0.5741","11138","0.6643","UR",
-"43","South Australia","No Religion/secular beliefs","811649","45.5596","599752","35.7708","UR",
-"43","South Australia","Not stated","107189","6.0167","142044","8.4719","UR",
-"43","South Australia","Total Population","1781511","100.0000","1676651","100.0000","UR",
-"44","Western Australia","Christian total","1093729","41.1173","1231605","49.7738","UR",
-"44","Western Australia","Non Christian total","212560","7.9909","170777","6.9017","UR",
-"44","Western Australia","Non-classifiable religious belief","16040","0.6030","16201","0.6547","UR",
-"44","Western Australia","No Religion/secular beliefs","1137482","42.7621","811798","32.8078","UR",
-"44","Western Australia","Not stated","200210","7.5266","244025","9.8620","UR",
-"44","Western Australia","Total Population","2660021","100.0000","2474406","100.0000","UR",
-"45","Tasmania","Christian total","213962","38.3725","253504","49.7105","UR",
-"45","Tasmania","Non Christian total","25091","4.4999","11757","2.3055","UR",
-"45","Tasmania","Non-classifiable religious belief","3034","0.5441","3405","0.6677","UR",
-"45","Tasmania","No Religion/secular beliefs","278055","49.8671","194159","38.0733","UR",
-"45","Tasmania","Not stated","37450","6.7164","47136","9.2431","UR",
-"45","Tasmania","Total Population","557592","100.0000","509961","100.0000","UR",
-"46","Northern Territory","Christian total","94151","40.4738","109121","47.6857","UR",
-"46","Northern Territory","Non Christian total","20203","8.6849","15021","6.5641","UR",
-"46","Northern Territory","Non-classifiable religious belief","1567","0.6736","1618","0.7071","UR",
-"46","Northern Territory","No Religion/secular beliefs","89070","38.2896","67737","29.6009","UR",
-"46","Northern Territory","Not stated","27631","11.8781","35337","15.4422","UR",
-"46","Northern Territory","Total Population","232622","100.0000","228834","100.0000","UR",
-"47","Australian Capital Territory","Christian total","173093","38.1349","180121","45.3880","UR",
-"47","Australian Capital Territory","Non Christian total","54747","12.0616","34356","8.6572","UR",
-"47","Australian Capital Territory","Non-classifiable religious belief","2894","0.6376","3115","0.7849","UR",
-"47","Australian Capital Territory","No Religion/secular beliefs","199605","43.9759","145372","36.6317","UR",
-"47","Australian Capital Territory","Not stated","23557","5.1900","33883","8.5381","UR",
-"47","Australian Capital Territory","Total Population","453896","100.0000","396847","100.0000","UR",
-"48","Regional Australia","Christian total","3893734","46.6587","4457448","57.3278","UR",
-"48","Regional Australia","Non Christian total","254152","3.0455","192871","2.4805","UR",
-"48","Regional Australia","Non-classifiable religious belief","47908","0.5741","48080","0.6184","UR",
-"48","Regional Australia","No Religion/secular beliefs","3446093","41.2946","2301850","29.6044","UR",
-"48","Regional Australia","Not stated","703250","8.4271","775116","9.9689","UR",
-"48","Regional Australia","Total Population","8345137","100.0000","7775365","100.0000","UR",
-"50","Australia","Christian total","11149643","43.8569","12201613","52.1395","UR",
-"50","Australia","Non Christian total","2539543","9.9892","1922028","8.2131","UR",
-"50","Australia","Non-classifiable religious belief","141571","0.5569","144780","0.6187","UR",
-"50","Australia","No Religion/secular beliefs","9840976","38.7093","7001293","29.9177","UR",
-"50","Australia","Not stated","1751053","6.8877","2132160","9.1111","UR",
-"50","Australia","Total Population","25422786","100.0000","23401874","100.0000","UR",
-"100","New South Wales","Christian total","3844641","47.6285","4127537","55.1793","UR",
-"100","New South Wales","Non Christian total","973513","12.0602","757902","10.1321","UR",
-"100","New South Wales","Non-classifiable religious belief","39319","0.4871","39194","0.5240","UR",
-"100","New South Wales","No Religion/secular beliefs","2666328","33.0312","1898832","25.3847","UR",
-"100","New South Wales","Not stated","548340","6.7930","656761","8.7800","UR",
-"100","New South Wales","Total Population","8072141","100.0000","7480226","100.0000","UR",
-"110","Victoria","Christian total","2657951","40.8695","2839149","47.9050","UR",
-"110","Victoria","Non Christian total","853762","13.1277","628988","10.6129","UR",
-"110","Victoria","Non-classifiable religious belief","36463","0.5607","38236","0.6452","UR",
-"110","Victoria","No Religion/secular beliefs","2542441","39.0934","1893491","31.9489","UR",
-"110","Victoria","Not stated","412883","6.3486","526758","8.8880","UR",
-"110","Victoria","Total Population","6503500","100.0000","5926622","100.0000","UR",
-"120","Queensland","Christian total","2357556","45.7233","2635342","56.0330","UR",
-"120","Queensland","Non Christian total","259091","5.0249","201728","4.2892","UR",
-"120","Queensland","Non-classifiable religious belief","32004","0.6207","31837","0.6769","UR",
-"120","Queensland","No Religion/secular beliefs","2114789","41.0150","1388989","29.5328","UR",
-"120","Queensland","Not stated","392694","7.6161","445304","9.4681","UR",
-"120","Queensland","Total Population","5156134","100.0000","4703200","100.0000","UR",
-"130","South Australia","Christian total","712983","40.0213","823429","49.1115","UR",
-"130","South Australia","Non Christian total","139462","7.8283","100288","5.9814","UR",
-"130","South Australia","Non-classifiable religious belief","10228","0.5741","11138","0.6643","UR",
-"130","South Australia","No Religion/secular beliefs","811649","45.5596","599752","35.7708","UR",
-"130","South Australia","Not stated","107189","6.0167","142044","8.4719","UR",
-"130","South Australia","Total Population","1781511","100.0000","1676651","100.0000","UR",
-"140","Western Australia","Christian total","1093729","41.1173","1231605","49.7738","UR",
-"140","Western Australia","Non Christian total","212560","7.9909","170777","6.9017","UR",
-"140","Western Australia","Non-classifiable religious belief","16040","0.6030","16201","0.6547","UR",
-"140","Western Australia","No Religion/secular beliefs","1137482","42.7621","811798","32.8078","UR",
-"140","Western Australia","Not stated","200210","7.5266","244025","9.8620","UR",
-"140","Western Australia","Total Population","2660021","100.0000","2474406","100.0000","UR",
-"150","Tasmania","Christian total","213962","38.3725","253504","49.7105","UR",
-"150","Tasmania","Non Christian total","25091","4.4999","11757","2.3055","UR",
-"150","Tasmania","Non-classifiable religious belief","3034","0.5441","3405","0.6677","UR",
-"150","Tasmania","No Religion/secular beliefs","278055","49.8671","194159","38.0733","UR",
-"150","Tasmania","Not stated","37450","6.7164","47136","9.2431","UR",
-"150","Tasmania","Total Population","557592","100.0000","509961","100.0000","UR",
-"160","Northern Territory","Christian total","94151","40.4738","109121","47.6857","UR",
-"160","Northern Territory","Non Christian total","20203","8.6849","15021","6.5641","UR",
-"160","Northern Territory","Non-classifiable religious belief","1567","0.6736","1618","0.7071","UR",
-"160","Northern Territory","No Religion/secular beliefs","89070","38.2896","67737","29.6009","UR",
-"160","Northern Territory","Not stated","27631","11.8781","35337","15.4422","UR",
-"160","Northern Territory","Total Population","232622","100.0000","228834","100.0000","UR",
-"170","Australian Capital Territory","Christian total","173093","38.1349","180121","45.3880","UR",
-"170","Australian Capital Territory","Non Christian total","54747","12.0616","34356","8.6572","UR",
-"170","Australian Capital Territory","Non-classifiable religious belief","2894","0.6376","3115","0.7849","UR",
-"170","Australian Capital Territory","No Religion/secular beliefs","199605","43.9759","145372","36.6317","UR",
-"170","Australian Capital Territory","Not stated","23557","5.1900","33883","8.5381","UR",
-"170","Australian Capital Territory","Total Population","453896","100.0000","396847","100.0000","UR",
-"180","Regional NSW","Christian total","1446981","51.1368","1626930","61.5438","UR",
-"180","Regional NSW","Non Christian total","84257","2.9777","61563","2.3288","UR",
-"180","Regional NSW","Non-classifiable religious belief","15408","0.5445","15431","0.5837","UR",
-"180","Regional NSW","No Religion/secular beliefs","1065150","37.6427","694788","26.2826","UR",
-"180","Regional NSW","Not stated","217834","7.6983","244820","9.2611","UR",
-"180","Regional NSW","Total Population","2829630","100.0000","2643532","100.0000","UR",
-"190","Regional VIC","Christian total","682145","43.2660","762004","53.1452","UR",
-"190","Regional VIC","Non Christian total","51529","3.2683","35116","2.4491","UR",
-"190","Regional VIC","Non-classifiable religious belief","9022","0.5722","8942","0.6237","UR",
-"190","Regional VIC","No Religion/secular beliefs","711909","45.1538","486873","33.9565","UR",
-"190","Regional VIC","Not stated","122025","7.7396","140880","9.8255","UR",
-"190","Regional VIC","Total Population","1576630","100.0000","1433815","100.0000","UR",
-"200","Regional QLD","Christian total","1233497","47.1692","1411958","58.3520","UR",
-"200","Regional QLD","Non Christian total","80473","3.0773","65597","2.7109","UR",
-"200","Regional QLD","Non-classifiable religious belief","15963","0.6104","15670","0.6476","UR",
-"200","Regional QLD","No Religion/secular beliefs","1055153","40.3493","682192","28.1930","UR",
-"200","Regional QLD","Not stated","229961","8.7938","244307","10.0965","UR",
-"200","Regional QLD","Total Population","2615047","100.0000","2419724","100.0000","UR",
-"210","Regional SA","Christian total","159667","40.8529","198519","52.5088","UR",
-"210","Regional SA","Non Christian total","7859","2.0108","6741","1.7830","UR",
-"210","Regional SA","Non-classifiable religious belief","2025","0.5181","2208","0.5840","UR",
-"210","Regional SA","No Religion/secular beliefs","186667","47.7612","133365","35.2754","UR",
-"210","Regional SA","Not stated","34616","8.8570","37235","9.8488","UR",
-"210","Regional SA","Total Population","390834","100.0000","378068","100.0000","UR",
-"220","Regional WA","Christian total","207853","38.8653","263207","50.2145","UR",
-"220","Regional WA","Non Christian total","14221","2.6591","13561","2.5872","UR",
-"220","Regional WA","Non-classifiable religious belief","3215","0.6012","3476","0.6631","UR",
-"220","Regional WA","No Religion/secular beliefs","244747","45.7639","178724","34.0969","UR",
-"220","Regional WA","Not stated","64768","12.1106","65197","12.4383","UR",
-"220","Regional WA","Total Population","534804","100.0000","524165","100.0000","UR",
-"230","Regional TAS","Christian total","121998","39.4712","148050","51.6536","UR",
-"230","Regional TAS","Non Christian total","9579","3.0992","5218","1.8205","UR",
-"230","Regional TAS","Non-classifiable religious belief","1667","0.5393","1880","0.6559","UR",
-"230","Regional TAS","No Religion/secular beliefs","153274","49.5902","104150","36.3372","UR",
-"230","Regional TAS","Not stated","22563","7.3000","27323","9.5328","UR",
-"230","Regional TAS","Total Population","309081","100.0000","286621","100.0000","UR",
-"240","Regional NT","Christian total","41593","46.6755","46780","52.3032","UR",
-"240","Regional NT","Non Christian total","6234","6.9958","5075","5.6742","UR",
-"240","Regional NT","Non-classifiable religious belief","608","0.6823","473","0.5288","UR",
-"240","Regional NT","No Religion/secular beliefs","29193","32.7603","21758","24.3269","UR",
-"240","Regional NT","Not stated","11483","12.8862","15354","17.1668","UR",
-"240","Regional NT","Total Population","89111","100.0000","89440","100.0000","UR",
-"245","Regional Australia","Christian total","3893734","46.6587","4457448","57.3278","UR",
-"245","Regional Australia","Non Christian total","254152","3.0455","192871","2.4805","UR",
-"245","Regional Australia","Non-classifiable religious belief","47908","0.5741","48080","0.6184","UR",
-"245","Regional Australia","No Religion/secular beliefs","3446093","41.2946","2301850","29.6044","UR",
-"245","Regional Australia","Not stated","703250","8.4271","775116","9.9689","UR",
-"245","Regional Australia","Total Population","8345137","100.0000","7775365","100.0000","UR",
-"250","Canberra","Christian total","173093","38.1349","180121","45.3880","UR",
-"250","Canberra","Non Christian total","54747","12.0616","34356","8.6572","UR",
-"250","Canberra","Non-classifiable religious belief","2894","0.6376","3115","0.7849","UR",
-"250","Canberra","No Religion/secular beliefs","199605","43.9759","145372","36.6317","UR",
-"250","Canberra","Not stated","23557","5.1900","33883","8.5381","UR",
-"250","Canberra","Total Population","453896","100.0000","396847","100.0000","UR",
-"260","Greater Sydney","Christian total","2394622","45.7763","2496026","51.7419","UR",
-"260","Greater Sydney","Non Christian total","888783","16.9902","695646","14.4206","UR",
-"260","Greater Sydney","Non-classifiable religious belief","23803","0.4550","23590","0.4890","UR",
-"260","Greater Sydney","No Religion/secular beliefs","1597467","30.5376","1200466","24.8853","UR",
-"260","Greater Sydney","Not stated","326469","6.2409","408262","8.4632","UR",
-"260","Greater Sydney","Total Population","5231144","100.0000","4823990","100.0000","UR",
-"270","Greater Melbourne","Christian total","1974006","40.1405","2075001","46.2632","UR",
-"270","Greater Melbourne","Non Christian total","801726","16.3027","593300","13.2279","UR",
-"270","Greater Melbourne","Non-classifiable religious belief","27343","0.5560","29183","0.6507","UR",
-"270","Greater Melbourne","No Religion/secular beliefs","1827618","37.1638","1404052","31.3041","UR",
-"270","Greater Melbourne","Not stated","287048","5.8370","383670","8.5541","UR",
-"270","Greater Melbourne","Total Population","4917741","100.0000","4485206","100.0000","UR",
-"280","Greater Brisbane","Christian total","1119588","44.3185","1218140","53.6436","UR",
-"280","Greater Brisbane","Non Christian total","178261","7.0564","135727","5.9770","UR",
-"280","Greater Brisbane","Non-classifiable religious belief","15872","0.6283","16002","0.7047","UR",
-"280","Greater Brisbane","No Religion/secular beliefs","1053744","41.7121","702910","30.9542","UR",
-"280","Greater Brisbane","Not stated","158764","6.2846","198024","8.7204","UR",
-"280","Greater Brisbane","Total Population","2526229","100.0000","2270803","100.0000","UR",
-"290","Greater Adelaide","Christian total","552536","39.8283","623983","48.1572","UR",
-"290","Greater Adelaide","Non Christian total","131462","9.4761","93405","7.2087","UR",
-"290","Greater Adelaide","Non-classifiable religious belief","8156","0.5879","8878","0.6852","UR",
-"290","Greater Adelaide","No Religion/secular beliefs","623448","44.9398","465328","35.9127","UR",
-"290","Greater Adelaide","Not stated","71693","5.1678","104127","8.0362","UR",
-"290","Greater Adelaide","Total Population","1387295","100.0000","1295721","100.0000","UR",
-"300","Greater Perth","Christian total","884225","41.7746","966198","49.7051","UR",
-"300","Greater Perth","Non Christian total","198130","9.3605","156977","8.0755","UR",
-"300","Greater Perth","Non-classifiable religious belief","12735","0.6017","12643","0.6504","UR",
-"300","Greater Perth","No Religion/secular beliefs","889964","42.0458","631003","32.4613","UR",
-"300","Greater Perth","Not stated","131602","6.2174","177039","9.1076","UR",
-"300","Greater Perth","Total Population","2116656","100.0000","1943860","100.0000","UR",
-"310","Greater Hobart","Christian total","91629","37.0875","105121","47.2756","UR",
-"310","Greater Hobart","Non Christian total","15452","6.2543","6506","2.9259","UR",
-"310","Greater Hobart","Non-classifiable religious belief","1344","0.5440","1508","0.6782","UR",
-"310","Greater Hobart","No Religion/secular beliefs","124094","50.2279","89607","40.2985","UR",
-"310","Greater Hobart","Not stated","14543","5.8864","19616","8.8218","UR",
-"310","Greater Hobart","Total Population","247062","100.0000","222358","100.0000","UR",
-"320","Greater Darwin","Christian total","51678","36.9345","61345","44.8343","UR",
-"320","Greater Darwin","Non Christian total","13910","9.9415","9871","7.2143","UR",
-"320","Greater Darwin","Non-classifiable religious belief","939","0.6711","1115","0.8149","UR",
-"320","Greater Darwin","No Religion/secular beliefs","58716","41.9646","45245","33.0675","UR",
-"320","Greater Darwin","Not stated","14675","10.4883","19250","14.0690","UR",
-"320","Greater Darwin","Total Population","139918","100.0000","136826","100.0000","UR",
-"330","Greater Capital Cities","Christian total","7068284","42.6673","7545814","49.7130","UR",
-"330","Greater Capital Cities","Non Christian total","2227724","13.4475","1691432","11.1434","UR",
-"330","Greater Capital Cities","Non-classifiable religious belief","90192","0.5444","92919","0.6122","UR",
-"330","Greater Capital Cities","No Religion/secular beliefs","6175051","37.2753","4538611","29.9011","UR",
-"330","Greater Capital Cities","Not stated","1004794","6.0654","1309988","8.6304","UR",
-"330","Greater Capital Cities","Total Population","16566045","100.0000","15178764","100.0000","UR",
-"340","South East Queensland","Christian total","1583825","44.1699","1720906","53.6759","UR",
-"340","South East Queensland","Non Christian total","217747","6.0726","166702","5.1995","UR",
-"340","South East Queensland","Non-classifiable religious belief","23221","0.6476","23297","0.7266","UR",
-"340","South East Queensland","No Religion/secular beliefs","1525724","42.5496","1009036","31.4724","UR",
-"340","South East Queensland","Not stated","235239","6.5604","286162","8.9255","UR",
-"340","South East Queensland","Total Population","3585756","100.0000","3206103","100.0000","UR",
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
+WebID,Area,Data label,2021,2021%,2016,2016%,Data Type,Area_Religion
+10,Australia,Christian total,11149643,43.8569,12201613,52.1395,UR,Australia_Christian_total
+10,Australia,Non Christian total,2539543,9.9892,1922028,8.2131,UR,Australia_NonChristian_total
+10,Australia,Non-classifiable religious belief,141571,0.5569,144780,0.6187,UR,Australia_Nonclassifiablereligious_belief
+10,Australia,No Religion/secular beliefs,9840976,38.7093,7001293,29.9177,UR,Australia_NoReligionsecular_beliefs
+10,Australia,Not stated,1751053,6.8877,2132160,9.1111,UR,Australia_Not_stated
+10,Australia,Total Population,25422786,100,23401874,100,UR,Australia_Total_Population
+20,Greater Capital Cities,Christian total,7068284,42.6673,7545814,49.713,UR,Greater Capital Cities_Christian_total
+20,Greater Capital Cities,Non Christian total,2227724,13.4475,1691432,11.1434,UR,Greater Capital Cities_NonChristian_total
+20,Greater Capital Cities,Non-classifiable religious belief,90192,0.5444,92919,0.6122,UR,Greater Capital Cities_Nonclassifiablereligious_belief
+20,Greater Capital Cities,No Religion/secular beliefs,6175051,37.2753,4538611,29.9011,UR,Greater Capital Cities_NoReligionsecular_beliefs
+20,Greater Capital Cities,Not stated,1004794,6.0654,1309988,8.6304,UR,Greater Capital Cities_Not_stated
+20,Greater Capital Cities,Total Population,16566045,100,15178764,100,UR,Greater Capital Cities_Total_Population
+40,New South Wales,Christian total,3844641,47.6285,4127537,55.1793,UR,New South Wales_Christian_total
+40,New South Wales,Non Christian total,973513,12.0602,757902,10.1321,UR,New South Wales_NonChristian_total
+40,New South Wales,Non-classifiable religious belief,39319,0.4871,39194,0.524,UR,New South Wales_Nonclassifiablereligious_belief
+40,New South Wales,No Religion/secular beliefs,2666328,33.0312,1898832,25.3847,UR,New South Wales_NoReligionsecular_beliefs
+40,New South Wales,Not stated,548340,6.793,656761,8.78,UR,New South Wales_Not_stated
+40,New South Wales,Total Population,8072141,100,7480226,100,UR,New South Wales_Total_Population
+41,Victoria,Christian total,2657951,40.8695,2839149,47.905,UR,Victoria_Christian_total
+41,Victoria,Non Christian total,853762,13.1277,628988,10.6129,UR,Victoria_NonChristian_total
+41,Victoria,Non-classifiable religious belief,36463,0.5607,38236,0.6452,UR,Victoria_Nonclassifiablereligious_belief
+41,Victoria,No Religion/secular beliefs,2542441,39.0934,1893491,31.9489,UR,Victoria_NoReligionsecular_beliefs
+41,Victoria,Not stated,412883,6.3486,526758,8.888,UR,Victoria_Not_stated
+41,Victoria,Total Population,6503500,100,5926622,100,UR,Victoria_Total_Population
+42,Queensland,Christian total,2357556,45.7233,2635342,56.033,UR,Queensland_Christian_total
+42,Queensland,Non Christian total,259091,5.0249,201728,4.2892,UR,Queensland_NonChristian_total
+42,Queensland,Non-classifiable religious belief,32004,0.6207,31837,0.6769,UR,Queensland_Nonclassifiablereligious_belief
+42,Queensland,No Religion/secular beliefs,2114789,41.015,1388989,29.5328,UR,Queensland_NoReligionsecular_beliefs
+42,Queensland,Not stated,392694,7.6161,445304,9.4681,UR,Queensland_Not_stated
+42,Queensland,Total Population,5156134,100,4703200,100,UR,Queensland_Total_Population
+43,South Australia,Christian total,712983,40.0213,823429,49.1115,UR,South Australia_Christian_total
+43,South Australia,Non Christian total,139462,7.8283,100288,5.9814,UR,South Australia_NonChristian_total
+43,South Australia,Non-classifiable religious belief,10228,0.5741,11138,0.6643,UR,South Australia_Nonclassifiablereligious_belief
+43,South Australia,No Religion/secular beliefs,811649,45.5596,599752,35.7708,UR,South Australia_NoReligionsecular_beliefs
+43,South Australia,Not stated,107189,6.0167,142044,8.4719,UR,South Australia_Not_stated
+43,South Australia,Total Population,1781511,100,1676651,100,UR,South Australia_Total_Population
+44,Western Australia,Christian total,1093729,41.1173,1231605,49.7738,UR,Western Australia_Christian_total
+44,Western Australia,Non Christian total,212560,7.9909,170777,6.9017,UR,Western Australia_NonChristian_total
+44,Western Australia,Non-classifiable religious belief,16040,0.603,16201,0.6547,UR,Western Australia_Nonclassifiablereligious_belief
+44,Western Australia,No Religion/secular beliefs,1137482,42.7621,811798,32.8078,UR,Western Australia_NoReligionsecular_beliefs
+44,Western Australia,Not stated,200210,7.5266,244025,9.862,UR,Western Australia_Not_stated
+44,Western Australia,Total Population,2660021,100,2474406,100,UR,Western Australia_Total_Population
+45,Tasmania,Christian total,213962,38.3725,253504,49.7105,UR,Tasmania_Christian_total
+45,Tasmania,Non Christian total,25091,4.4999,11757,2.3055,UR,Tasmania_NonChristian_total
+45,Tasmania,Non-classifiable religious belief,3034,0.5441,3405,0.6677,UR,Tasmania_Nonclassifiablereligious_belief
+45,Tasmania,No Religion/secular beliefs,278055,49.8671,194159,38.0733,UR,Tasmania_NoReligionsecular_beliefs
+45,Tasmania,Not stated,37450,6.7164,47136,9.2431,UR,Tasmania_Not_stated
+45,Tasmania,Total Population,557592,100,509961,100,UR,Tasmania_Total_Population
+46,Northern Territory,Christian total,94151,40.4738,109121,47.6857,UR,Northern Territory_Christian_total
+46,Northern Territory,Non Christian total,20203,8.6849,15021,6.5641,UR,Northern Territory_NonChristian_total
+46,Northern Territory,Non-classifiable religious belief,1567,0.6736,1618,0.7071,UR,Northern Territory_Nonclassifiablereligious_belief
+46,Northern Territory,No Religion/secular beliefs,89070,38.2896,67737,29.6009,UR,Northern Territory_NoReligionsecular_beliefs
+46,Northern Territory,Not stated,27631,11.8781,35337,15.4422,UR,Northern Territory_Not_stated
+46,Northern Territory,Total Population,232622,100,228834,100,UR,Northern Territory_Total_Population
+47,Australian Capital Territory,Christian total,173093,38.1349,180121,45.388,UR,Australian Capital Territory_Christian_total
+47,Australian Capital Territory,Non Christian total,54747,12.0616,34356,8.6572,UR,Australian Capital Territory_NonChristian_total
+47,Australian Capital Territory,Non-classifiable religious belief,2894,0.6376,3115,0.7849,UR,Australian Capital Territory_Nonclassifiablereligious_belief
+47,Australian Capital Territory,No Religion/secular beliefs,199605,43.9759,145372,36.6317,UR,Australian Capital Territory_NoReligionsecular_beliefs
+47,Australian Capital Territory,Not stated,23557,5.19,33883,8.5381,UR,Australian Capital Territory_Not_stated
+47,Australian Capital Territory,Total Population,453896,100,396847,100,UR,Australian Capital Territory_Total_Population
+48,Regional Australia,Christian total,3893734,46.6587,4457448,57.3278,UR,Regional Australia_Christian_total
+48,Regional Australia,Non Christian total,254152,3.0455,192871,2.4805,UR,Regional Australia_NonChristian_total
+48,Regional Australia,Non-classifiable religious belief,47908,0.5741,48080,0.6184,UR,Regional Australia_Nonclassifiablereligious_belief
+48,Regional Australia,No Religion/secular beliefs,3446093,41.2946,2301850,29.6044,UR,Regional Australia_NoReligionsecular_beliefs
+48,Regional Australia,Not stated,703250,8.4271,775116,9.9689,UR,Regional Australia_Not_stated
+48,Regional Australia,Total Population,8345137,100,7775365,100,UR,Regional Australia_Total_Population
+50,Australia,Christian total,11149643,43.8569,12201613,52.1395,UR,Australia_Christian_total
+50,Australia,Non Christian total,2539543,9.9892,1922028,8.2131,UR,Australia_NonChristian_total
+50,Australia,Non-classifiable religious belief,141571,0.5569,144780,0.6187,UR,Australia_Nonclassifiablereligious_belief
+50,Australia,No Religion/secular beliefs,9840976,38.7093,7001293,29.9177,UR,Australia_NoReligionsecular_beliefs
+50,Australia,Not stated,1751053,6.8877,2132160,9.1111,UR,Australia_Not_stated
+50,Australia,Total Population,25422786,100,23401874,100,UR,Australia_Total_Population
+100,New South Wales,Christian total,3844641,47.6285,4127537,55.1793,UR,New South Wales_Christian_total
+100,New South Wales,Non Christian total,973513,12.0602,757902,10.1321,UR,New South Wales_NonChristian_total
+100,New South Wales,Non-classifiable religious belief,39319,0.4871,39194,0.524,UR,New South Wales_Nonclassifiablereligious_belief
+100,New South Wales,No Religion/secular beliefs,2666328,33.0312,1898832,25.3847,UR,New South Wales_NoReligionsecular_beliefs
+100,New South Wales,Not stated,548340,6.793,656761,8.78,UR,New South Wales_Not_stated
+100,New South Wales,Total Population,8072141,100,7480226,100,UR,New South Wales_Total_Population
+110,Victoria,Christian total,2657951,40.8695,2839149,47.905,UR,Victoria_Christian_total
+110,Victoria,Non Christian total,853762,13.1277,628988,10.6129,UR,Victoria_NonChristian_total
+110,Victoria,Non-classifiable religious belief,36463,0.5607,38236,0.6452,UR,Victoria_Nonclassifiablereligious_belief
+110,Victoria,No Religion/secular beliefs,2542441,39.0934,1893491,31.9489,UR,Victoria_NoReligionsecular_beliefs
+110,Victoria,Not stated,412883,6.3486,526758,8.888,UR,Victoria_Not_stated
+110,Victoria,Total Population,6503500,100,5926622,100,UR,Victoria_Total_Population
+120,Queensland,Christian total,2357556,45.7233,2635342,56.033,UR,Queensland_Christian_total
+120,Queensland,Non Christian total,259091,5.0249,201728,4.2892,UR,Queensland_NonChristian_total
+120,Queensland,Non-classifiable religious belief,32004,0.6207,31837,0.6769,UR,Queensland_Nonclassifiablereligious_belief
+120,Queensland,No Religion/secular beliefs,2114789,41.015,1388989,29.5328,UR,Queensland_NoReligionsecular_beliefs
+120,Queensland,Not stated,392694,7.6161,445304,9.4681,UR,Queensland_Not_stated
+120,Queensland,Total Population,5156134,100,4703200,100,UR,Queensland_Total_Population
+130,South Australia,Christian total,712983,40.0213,823429,49.1115,UR,South Australia_Christian_total
+130,South Australia,Non Christian total,139462,7.8283,100288,5.9814,UR,South Australia_NonChristian_total
+130,South Australia,Non-classifiable religious belief,10228,0.5741,11138,0.6643,UR,South Australia_Nonclassifiablereligious_belief
+130,South Australia,No Religion/secular beliefs,811649,45.5596,599752,35.7708,UR,South Australia_NoReligionsecular_beliefs
+130,South Australia,Not stated,107189,6.0167,142044,8.4719,UR,South Australia_Not_stated
+130,South Australia,Total Population,1781511,100,1676651,100,UR,South Australia_Total_Population
+140,Western Australia,Christian total,1093729,41.1173,1231605,49.7738,UR,Western Australia_Christian_total
+140,Western Australia,Non Christian total,212560,7.9909,170777,6.9017,UR,Western Australia_NonChristian_total
+140,Western Australia,Non-classifiable religious belief,16040,0.603,16201,0.6547,UR,Western Australia_Nonclassifiablereligious_belief
+140,Western Australia,No Religion/secular beliefs,1137482,42.7621,811798,32.8078,UR,Western Australia_NoReligionsecular_beliefs
+140,Western Australia,Not stated,200210,7.5266,244025,9.862,UR,Western Australia_Not_stated
+140,Western Australia,Total Population,2660021,100,2474406,100,UR,Western Australia_Total_Population
+150,Tasmania,Christian total,213962,38.3725,253504,49.7105,UR,Tasmania_Christian_total
+150,Tasmania,Non Christian total,25091,4.4999,11757,2.3055,UR,Tasmania_NonChristian_total
+150,Tasmania,Non-classifiable religious belief,3034,0.5441,3405,0.6677,UR,Tasmania_Nonclassifiablereligious_belief
+150,Tasmania,No Religion/secular beliefs,278055,49.8671,194159,38.0733,UR,Tasmania_NoReligionsecular_beliefs
+150,Tasmania,Not stated,37450,6.7164,47136,9.2431,UR,Tasmania_Not_stated
+150,Tasmania,Total Population,557592,100,509961,100,UR,Tasmania_Total_Population
+160,Northern Territory,Christian total,94151,40.4738,109121,47.6857,UR,Northern Territory_Christian_total
+160,Northern Territory,Non Christian total,20203,8.6849,15021,6.5641,UR,Northern Territory_NonChristian_total
+160,Northern Territory,Non-classifiable religious belief,1567,0.6736,1618,0.7071,UR,Northern Territory_Nonclassifiablereligious_belief
+160,Northern Territory,No Religion/secular beliefs,89070,38.2896,67737,29.6009,UR,Northern Territory_NoReligionsecular_beliefs
+160,Northern Territory,Not stated,27631,11.8781,35337,15.4422,UR,Northern Territory_Not_stated
+160,Northern Territory,Total Population,232622,100,228834,100,UR,Northern Territory_Total_Population
+170,Australian Capital Territory,Christian total,173093,38.1349,180121,45.388,UR,Australian Capital Territory_Christian_total
+170,Australian Capital Territory,Non Christian total,54747,12.0616,34356,8.6572,UR,Australian Capital Territory_NonChristian_total
+170,Australian Capital Territory,Non-classifiable religious belief,2894,0.6376,3115,0.7849,UR,Australian Capital Territory_Nonclassifiablereligious_belief
+170,Australian Capital Territory,No Religion/secular beliefs,199605,43.9759,145372,36.6317,UR,Australian Capital Territory_NoReligionsecular_beliefs
+170,Australian Capital Territory,Not stated,23557,5.19,33883,8.5381,UR,Australian Capital Territory_Not_stated
+170,Australian Capital Territory,Total Population,453896,100,396847,100,UR,Australian Capital Territory_Total_Population
+180,Regional NSW,Christian total,1446981,51.1368,1626930,61.5438,UR,Regional NSW_Christian_total
+180,Regional NSW,Non Christian total,84257,2.9777,61563,2.3288,UR,Regional NSW_NonChristian_total
+180,Regional NSW,Non-classifiable religious belief,15408,0.5445,15431,0.5837,UR,Regional NSW_Nonclassifiablereligious_belief
+180,Regional NSW,No Religion/secular beliefs,1065150,37.6427,694788,26.2826,UR,Regional NSW_NoReligionsecular_beliefs
+180,Regional NSW,Not stated,217834,7.6983,244820,9.2611,UR,Regional NSW_Not_stated
+180,Regional NSW,Total Population,2829630,100,2643532,100,UR,Regional NSW_Total_Population
+190,Regional VIC,Christian total,682145,43.266,762004,53.1452,UR,Regional VIC_Christian_total
+190,Regional VIC,Non Christian total,51529,3.2683,35116,2.4491,UR,Regional VIC_NonChristian_total
+190,Regional VIC,Non-classifiable religious belief,9022,0.5722,8942,0.6237,UR,Regional VIC_Nonclassifiablereligious_belief
+190,Regional VIC,No Religion/secular beliefs,711909,45.1538,486873,33.9565,UR,Regional VIC_NoReligionsecular_beliefs
+190,Regional VIC,Not stated,122025,7.7396,140880,9.8255,UR,Regional VIC_Not_stated
+190,Regional VIC,Total Population,1576630,100,1433815,100,UR,Regional VIC_Total_Population
+200,Regional QLD,Christian total,1233497,47.1692,1411958,58.352,UR,Regional QLD_Christian_total
+200,Regional QLD,Non Christian total,80473,3.0773,65597,2.7109,UR,Regional QLD_NonChristian_total
+200,Regional QLD,Non-classifiable religious belief,15963,0.6104,15670,0.6476,UR,Regional QLD_Nonclassifiablereligious_belief
+200,Regional QLD,No Religion/secular beliefs,1055153,40.3493,682192,28.193,UR,Regional QLD_NoReligionsecular_beliefs
+200,Regional QLD,Not stated,229961,8.7938,244307,10.0965,UR,Regional QLD_Not_stated
+200,Regional QLD,Total Population,2615047,100,2419724,100,UR,Regional QLD_Total_Population
+210,Regional SA,Christian total,159667,40.8529,198519,52.5088,UR,Regional SA_Christian_total
+210,Regional SA,Non Christian total,7859,2.0108,6741,1.783,UR,Regional SA_NonChristian_total
+210,Regional SA,Non-classifiable religious belief,2025,0.5181,2208,0.584,UR,Regional SA_Nonclassifiablereligious_belief
+210,Regional SA,No Religion/secular beliefs,186667,47.7612,133365,35.2754,UR,Regional SA_NoReligionsecular_beliefs
+210,Regional SA,Not stated,34616,8.857,37235,9.8488,UR,Regional SA_Not_stated
+210,Regional SA,Total Population,390834,100,378068,100,UR,Regional SA_Total_Population
+220,Regional WA,Christian total,207853,38.8653,263207,50.2145,UR,Regional WA_Christian_total
+220,Regional WA,Non Christian total,14221,2.6591,13561,2.5872,UR,Regional WA_NonChristian_total
+220,Regional WA,Non-classifiable religious belief,3215,0.6012,3476,0.6631,UR,Regional WA_Nonclassifiablereligious_belief
+220,Regional WA,No Religion/secular beliefs,244747,45.7639,178724,34.0969,UR,Regional WA_NoReligionsecular_beliefs
+220,Regional WA,Not stated,64768,12.1106,65197,12.4383,UR,Regional WA_Not_stated
+220,Regional WA,Total Population,534804,100,524165,100,UR,Regional WA_Total_Population
+230,Regional TAS,Christian total,121998,39.4712,148050,51.6536,UR,Regional TAS_Christian_total
+230,Regional TAS,Non Christian total,9579,3.0992,5218,1.8205,UR,Regional TAS_NonChristian_total
+230,Regional TAS,Non-classifiable religious belief,1667,0.5393,1880,0.6559,UR,Regional TAS_Nonclassifiablereligious_belief
+230,Regional TAS,No Religion/secular beliefs,153274,49.5902,104150,36.3372,UR,Regional TAS_NoReligionsecular_beliefs
+230,Regional TAS,Not stated,22563,7.3,27323,9.5328,UR,Regional TAS_Not_stated
+230,Regional TAS,Total Population,309081,100,286621,100,UR,Regional TAS_Total_Population
+240,Regional NT,Christian total,41593,46.6755,46780,52.3032,UR,Regional NT_Christian_total
+240,Regional NT,Non Christian total,6234,6.9958,5075,5.6742,UR,Regional NT_NonChristian_total
+240,Regional NT,Non-classifiable religious belief,608,0.6823,473,0.5288,UR,Regional NT_Nonclassifiablereligious_belief
+240,Regional NT,No Religion/secular beliefs,29193,32.7603,21758,24.3269,UR,Regional NT_NoReligionsecular_beliefs
+240,Regional NT,Not stated,11483,12.8862,15354,17.1668,UR,Regional NT_Not_stated
+240,Regional NT,Total Population,89111,100,89440,100,UR,Regional NT_Total_Population
+245,Regional Australia,Christian total,3893734,46.6587,4457448,57.3278,UR,Regional Australia_Christian_total
+245,Regional Australia,Non Christian total,254152,3.0455,192871,2.4805,UR,Regional Australia_NonChristian_total
+245,Regional Australia,Non-classifiable religious belief,47908,0.5741,48080,0.6184,UR,Regional Australia_Nonclassifiablereligious_belief
+245,Regional Australia,No Religion/secular beliefs,3446093,41.2946,2301850,29.6044,UR,Regional Australia_NoReligionsecular_beliefs
+245,Regional Australia,Not stated,703250,8.4271,775116,9.9689,UR,Regional Australia_Not_stated
+245,Regional Australia,Total Population,8345137,100,7775365,100,UR,Regional Australia_Total_Population
+250,Canberra,Christian total,173093,38.1349,180121,45.388,UR,Canberra_Christian_total
+250,Canberra,Non Christian total,54747,12.0616,34356,8.6572,UR,Canberra_NonChristian_total
+250,Canberra,Non-classifiable religious belief,2894,0.6376,3115,0.7849,UR,Canberra_Nonclassifiablereligious_belief
+250,Canberra,No Religion/secular beliefs,199605,43.9759,145372,36.6317,UR,Canberra_NoReligionsecular_beliefs
+250,Canberra,Not stated,23557,5.19,33883,8.5381,UR,Canberra_Not_stated
+250,Canberra,Total Population,453896,100,396847,100,UR,Canberra_Total_Population
+260,Greater Sydney,Christian total,2394622,45.7763,2496026,51.7419,UR,Greater Sydney_Christian_total
+260,Greater Sydney,Non Christian total,888783,16.9902,695646,14.4206,UR,Greater Sydney_NonChristian_total
+260,Greater Sydney,Non-classifiable religious belief,23803,0.455,23590,0.489,UR,Greater Sydney_Nonclassifiablereligious_belief
+260,Greater Sydney,No Religion/secular beliefs,1597467,30.5376,1200466,24.8853,UR,Greater Sydney_NoReligionsecular_beliefs
+260,Greater Sydney,Not stated,326469,6.2409,408262,8.4632,UR,Greater Sydney_Not_stated
+260,Greater Sydney,Total Population,5231144,100,4823990,100,UR,Greater Sydney_Total_Population
+270,Greater Melbourne,Christian total,1974006,40.1405,2075001,46.2632,UR,Greater Melbourne_Christian_total
+270,Greater Melbourne,Non Christian total,801726,16.3027,593300,13.2279,UR,Greater Melbourne_NonChristian_total
+270,Greater Melbourne,Non-classifiable religious belief,27343,0.556,29183,0.6507,UR,Greater Melbourne_Nonclassifiablereligious_belief
+270,Greater Melbourne,No Religion/secular beliefs,1827618,37.1638,1404052,31.3041,UR,Greater Melbourne_NoReligionsecular_beliefs
+270,Greater Melbourne,Not stated,287048,5.837,383670,8.5541,UR,Greater Melbourne_Not_stated
+270,Greater Melbourne,Total Population,4917741,100,4485206,100,UR,Greater Melbourne_Total_Population
+280,Greater Brisbane,Christian total,1119588,44.3185,1218140,53.6436,UR,Greater Brisbane_Christian_total
+280,Greater Brisbane,Non Christian total,178261,7.0564,135727,5.977,UR,Greater Brisbane_NonChristian_total
+280,Greater Brisbane,Non-classifiable religious belief,15872,0.6283,16002,0.7047,UR,Greater Brisbane_Nonclassifiablereligious_belief
+280,Greater Brisbane,No Religion/secular beliefs,1053744,41.7121,702910,30.9542,UR,Greater Brisbane_NoReligionsecular_beliefs
+280,Greater Brisbane,Not stated,158764,6.2846,198024,8.7204,UR,Greater Brisbane_Not_stated
+280,Greater Brisbane,Total Population,2526229,100,2270803,100,UR,Greater Brisbane_Total_Population
+290,Greater Adelaide,Christian total,552536,39.8283,623983,48.1572,UR,Greater Adelaide_Christian_total
+290,Greater Adelaide,Non Christian total,131462,9.4761,93405,7.2087,UR,Greater Adelaide_NonChristian_total
+290,Greater Adelaide,Non-classifiable religious belief,8156,0.5879,8878,0.6852,UR,Greater Adelaide_Nonclassifiablereligious_belief
+290,Greater Adelaide,No Religion/secular beliefs,623448,44.9398,465328,35.9127,UR,Greater Adelaide_NoReligionsecular_beliefs
+290,Greater Adelaide,Not stated,71693,5.1678,104127,8.0362,UR,Greater Adelaide_Not_stated
+290,Greater Adelaide,Total Population,1387295,100,1295721,100,UR,Greater Adelaide_Total_Population
+300,Greater Perth,Christian total,884225,41.7746,966198,49.7051,UR,Greater Perth_Christian_total
+300,Greater Perth,Non Christian total,198130,9.3605,156977,8.0755,UR,Greater Perth_NonChristian_total
+300,Greater Perth,Non-classifiable religious belief,12735,0.6017,12643,0.6504,UR,Greater Perth_Nonclassifiablereligious_belief
+300,Greater Perth,No Religion/secular beliefs,889964,42.0458,631003,32.4613,UR,Greater Perth_NoReligionsecular_beliefs
+300,Greater Perth,Not stated,131602,6.2174,177039,9.1076,UR,Greater Perth_Not_stated
+300,Greater Perth,Total Population,2116656,100,1943860,100,UR,Greater Perth_Total_Population
+310,Greater Hobart,Christian total,91629,37.0875,105121,47.2756,UR,Greater Hobart_Christian_total
+310,Greater Hobart,Non Christian total,15452,6.2543,6506,2.9259,UR,Greater Hobart_NonChristian_total
+310,Greater Hobart,Non-classifiable religious belief,1344,0.544,1508,0.6782,UR,Greater Hobart_Nonclassifiablereligious_belief
+310,Greater Hobart,No Religion/secular beliefs,124094,50.2279,89607,40.2985,UR,Greater Hobart_NoReligionsecular_beliefs
+310,Greater Hobart,Not stated,14543,5.8864,19616,8.8218,UR,Greater Hobart_Not_stated
+310,Greater Hobart,Total Population,247062,100,222358,100,UR,Greater Hobart_Total_Population
+320,Greater Darwin,Christian total,51678,36.9345,61345,44.8343,UR,Greater Darwin_Christian_total
+320,Greater Darwin,Non Christian total,13910,9.9415,9871,7.2143,UR,Greater Darwin_NonChristian_total
+320,Greater Darwin,Non-classifiable religious belief,939,0.6711,1115,0.8149,UR,Greater Darwin_Nonclassifiablereligious_belief
+320,Greater Darwin,No Religion/secular beliefs,58716,41.9646,45245,33.0675,UR,Greater Darwin_NoReligionsecular_beliefs
+320,Greater Darwin,Not stated,14675,10.4883,19250,14.069,UR,Greater Darwin_Not_stated
+320,Greater Darwin,Total Population,139918,100,136826,100,UR,Greater Darwin_Total_Population
+330,Greater Capital Cities,Christian total,7068284,42.6673,7545814,49.713,UR,Greater Capital Cities_Christian_total
+330,Greater Capital Cities,Non Christian total,2227724,13.4475,1691432,11.1434,UR,Greater Capital Cities_NonChristian_total
+330,Greater Capital Cities,Non-classifiable religious belief,90192,0.5444,92919,0.6122,UR,Greater Capital Cities_Nonclassifiablereligious_belief
+330,Greater Capital Cities,No Religion/secular beliefs,6175051,37.2753,4538611,29.9011,UR,Greater Capital Cities_NoReligionsecular_beliefs
+330,Greater Capital Cities,Not stated,1004794,6.0654,1309988,8.6304,UR,Greater Capital Cities_Not_stated
+330,Greater Capital Cities,Total Population,16566045,100,15178764,100,UR,Greater Capital Cities_Total_Population
+340,South East Queensland,Christian total,1583825,44.1699,1720906,53.6759,UR,South East Queensland_Christian_total
+340,South East Queensland,Non Christian total,217747,6.0726,166702,5.1995,UR,South East Queensland_NonChristian_total
+340,South East Queensland,Non-classifiable religious belief,23221,0.6476,23297,0.7266,UR,South East Queensland_Nonclassifiablereligious_belief
+340,South East Queensland,No Religion/secular beliefs,1525724,42.5496,1009036,31.4724,UR,South East Queensland_NoReligionsecular_beliefs
+340,South East Queensland,Not stated,235239,6.5604,286162,8.9255,UR,South East Queensland_Not_stated
+340,South East Queensland,Total Population,3585756,100,3206103,100,UR,South East Queensland_Total_Population
