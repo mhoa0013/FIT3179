@@ -1,6 +1,6 @@
 {
     "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
-    "title": "Religions in Australia",
+    "title": "Christianity in Australia",
     "width": 800,
     "height": 400,
     "projection": {
@@ -15,24 +15,45 @@
     },
     "transform": [
         {
-            "lookup": "properties.NAME",
+            "filter": "datum.properties.STE_NAME21 == 'New South Wales' || datum.properties.STE_NAME21 == 'Victoria' || datum.properties.STE_NAME21 == 'Queensland' || datum.properties.STE_NAME21 == 'South Australia' || datum.properties.STE_NAME21 == 'Western Australia' || datum.properties.STE_NAME21 == 'Tasmania' || datum.properties.STE_NAME21 == 'Northern Territory' || datum.properties.STE_NAME21 == 'Australian Capital Territory'"
+        },
+        {
+            "lookup": "properties.STE_NAME21",
             "from": {
                 "data": {
-                    "url": "https://raw.githubusercontent.com/FIT3179/Vega-Lite/main/3_choropleth_map/data/covid_10_10_2020.csv"
+                    "url": "https://raw.githubusercontent.com/mhoa0013/FIT3179/refs/heads/main/ReligionTotals_AllAreas_DataType_UR_For_2021_2016.csv",
+                    "format": {
+                        "type": "csv"
+                    }
                 },
-                "key": "Country",
+                "key": "Area",
                 "fields": [
-                    "Active"
+                    "Data label",
+                    "2021%"
                 ]
             }
-        }
+        },
+        {"filter": "datum['Data label'] == 'Christian total'"}
     ],
     "mark": {
         "type": "geoshape"
     },
     "encoding": {
         "color": {
-            "field": "Active",
+            "field": "2021%",
             "type": "quantitative"
-        }
+        },
+        "tooltip": [
+            {
+                "field": "properties.STE_NAME21",
+                "type": "nominal",
+                "title": "State"
+            },
+            {
+                "field": "2021%",
+                "type": "quantitative",
+                "title": "Christian Population/State Population"
+            }
+        ]
     }
+}
