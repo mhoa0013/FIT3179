@@ -21,7 +21,7 @@
             "lookup": "properties.STE_NAME21",
             "from": {
                 "data": {
-                    "url": "https://raw.githubusercontent.com/mhoa0013/FIT3179/refs/heads/main/ReligionTotals_AllAreas_DataType_UR_For_2021_2016.csv",
+                    "url": "https://raw.githubusercontent.com/mhoa0013/FIT3179/refs/heads/main/ReligionTotals_AllTimePeriod_AllAreas_DataType_UR.csv",
                     "format": {
                         "type": "csv"
                     }
