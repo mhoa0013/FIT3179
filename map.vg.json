@@ -15,45 +15,63 @@
     },
     "transform": [
         {
-            "filter": "datum.properties.STE_NAME21 == 'New South Wales' || datum.properties.STE_NAME21 == 'Victoria' || datum.properties.STE_NAME21 == 'Queensland' || datum.properties.STE_NAME21 == 'South Australia' || datum.properties.STE_NAME21 == 'Western Australia' || datum.properties.STE_NAME21 == 'Tasmania' || datum.properties.STE_NAME21 == 'Northern Territory' || datum.properties.STE_NAME21 == 'Australian Capital Territory'"
+          "filter": "datum.properties.STE_NAME21 == 'New South Wales' || datum.properties.STE_NAME21 == 'Victoria' || datum.properties.STE_NAME21 == 'Queensland' || datum.properties.STE_NAME21 == 'South Australia' || datum.properties.STE_NAME21 == 'Western Australia' || datum.properties.STE_NAME21 == 'Tasmania' || datum.properties.STE_NAME21 == 'Northern Territory' || datum.properties.STE_NAME21 == 'Australian Capital Territory'"
         },
         {
-            "lookup": "properties.STE_NAME21",
-            "from": {
-                "data": {
-                    "url": "https://raw.githubusercontent.com/mhoa0013/FIT3179/refs/heads/main/ReligionTotals_AllTimePeriod_AllAreas_DataType_UR.csv",
-                    "format": {
-                        "type": "csv"
-                    }
-                },
-                "key": "Area",
-                "fields": [
-                    "Data label",
-                    "2021%"
-                ]
-            }
+          "lookup": "properties.STE_NAME21",
+          "from": {
+            "data": {
+              "url": "https://raw.githubusercontent.com/mhoa0013/FIT3179/refs/heads/main/ReligionTotals_AllTimePeriod_AllAreas_DataType_UR.csv",
+              "format": {
+                "type": "csv"
+              }
+            },
+            "key": "Area",
+            "fields": ["2021%", "2016%", "2011%", "2006%", "2001%", "Data label"]
+          }
         },
-        {"filter": "datum['Data label'] == 'Christian total'"}
-    ],
-    "mark": {
+        {
+          "filter": "datum['Data label'] == 'Christian total'"
+        },
+        {
+          "calculate": "if(paramYear == '2021', toNumber(datum['2021%']), if(paramYear == '2016', toNumber(datum['2016%']), if(paramYear == '2011', toNumber(datum['2011%']), if(paramYear == '2006', toNumber(datum['2006%']), toNumber(datum['2001%'])))))",
+          "as": "Christianity Population"
+        }
+      ],
+      "params": [
+        {
+          "name": "paramYear",
+          "value": "2021",
+          "bind": {
+            "input": "select",
+            "options": ["2021", "2016", "2011", "2006", "2001"],
+            "name": "Select Year: "
+          }
+        }
+      ],
+      "mark": {
         "type": "geoshape"
-    },
-    "encoding": {
+      },
+      "encoding": {
         "color": {
-            "field": "2021%",
-            "type": "quantitative"
+          "field": "Christianity Population",
+          "type": "quantitative",
+          "title": "Christianity Population (%)",
+          "scale": {
+            "domain": [0, 100]
+          }
         },
         "tooltip": [
-            {
-                "field": "properties.STE_NAME21",
-                "type": "nominal",
-                "title": "State"
-            },
-            {
-                "field": "2021%",
-                "type": "quantitative",
-                "title": "Christian Population/State Population"
-            }
+          {
+            "field": "properties.STE_NAME21",
+            "type": "nominal",
+            "title": "State"
+          },
+          {
+            "field": "Christianity Population",
+            "type": "quantitative",
+            "title": "Christianity Population (%)"
+          }
         ]
+      }
     }
-}
