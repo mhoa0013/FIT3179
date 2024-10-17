@@ -1,0 +1,35 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+  "title": "Christianity Affiliation by Generation (2021)",
+  "width": 600,
+  "height": 400,
+  "data": {
+    "url": "https://raw.githubusercontent.com/mhoa0013/FIT3179/refs/heads/main/Christian%20affiliation%20by%20generation%2C%202021.csv",
+    "format": {
+      "type": "csv"
+    }
+  },
+  "mark": "bar",
+  "encoding": {
+    "x": {
+      "field": "Generation",
+      "type": "nominal",
+      "title": "Generation",
+      "axis": {"labelAngle": 0}
+    },
+    "y": {
+      "field": "Christianity",
+      "type": "quantitative",
+      "title": "Christianity (%)"
+    },
+    "color": {
+      "field": "Christianity",
+      "type": "quantitative",
+      "scale": {"scheme": "blues"}
+    },
+    "tooltip": [
+      {"field": "Generation", "type": "nominal", "title": "Generation"},
+      {"field": "Christianity", "type": "quantitative", "title": "Christianity (%)"}
+    ]
+  }
+}
