@@ -1,0 +1,40 @@
+{
+    "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
+    "width": 300,
+    "height": 200,
+    "description": "Christianity Population over time",
+    "data": {
+        "url": "https://raw.githubusercontent.com/mhoa0013/FIT3179/refs/heads/main/Religious%20affiliation%20in%20Australia%2C%201971-2021.csv",
+        "format": {
+            "type": "csv"
+        }
+    },
+    "mark": "area",
+    "encoding": {
+      "x": {
+        "field": "Year",
+        "type": "temporal",
+        "axis": {
+          "title": "Year",
+          "format": "%Y"
+        }
+      },
+      "y": {
+        "field": "Christianity (%)",
+        "type": "quantitative",
+        "title": "Christianity (%)"
+      },
+      "tooltip": [
+        {
+          "field": "Year",
+          "type": "temporal",
+          "title": "Year"
+        },
+        {
+          "field": "Christianity (%)",
+          "type": "quantitative",
+          "title": "Christianity (%)"
+        }
+      ]
+    }
+  }
