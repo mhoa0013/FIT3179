@@ -2,7 +2,7 @@
   "$schema": "https://vega.github.io/schema/vega-lite/v5.json",
   "title": "Christianity Affiliation by Generation (2021)",
   "width": 800,
-  "height": 400,
+  "height": 300,
   "data": {
     "url": "https://raw.githubusercontent.com/mhoa0013/FIT3179/refs/heads/main/Christian%20affiliation%20by%20generation%2C%202021.csv",
     "format": {
